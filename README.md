@@ -129,6 +129,5 @@ I'm always open to conversations around **full-stack development, cloud infrastr
 
 ⭐ If you find something useful here, feel free to star the repository!
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnanyaRaj14&color=1F497D&style=flat)
 
 </div>
